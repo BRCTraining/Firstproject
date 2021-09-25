@@ -1,0 +1,34 @@
+What is Repository
+
+What is Git repo
+
+public repo and private repo
+
+add a readme file 
+
+add.gitignore
+
+what is git version ?
+git --version
+
+How to git clone - get your remote repository to your local 
+
+Go thorugh git commands--IMP
+
+
+cd
+
+git config
+
+git status
+
+git add.
+
+git add file name 
+
+git clone
+
+git push
+
+git commit 
+
