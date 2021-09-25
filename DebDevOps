@@ -1,1 +1,22 @@
 Hey This is my First Training :)
+
+
+Git Setup:
+
+-- Download and Install Git
+-- Create an account in GitHub
+-- Create a Repository and get the URL from GitHub.
+
+Git Commands:
+
+To create Git Directory (git clone "URL")
+Change the directory (cd "Directory or Folder Name"), If you want to come out of a directory then run, (cd ..)
+-- Change as per your requirement to your file and add new files
+Check (git status)
+(git add .) or else (git add "specific File Name")
+check (git status)
+(git commit -m "Commit Details") - To commit your local changes to remote repository
+Then You may need to aunthenticate first time with Github to push and commit your changes
+(git push) or else (git push -u origin "branch name") - To Push your changes into Remote
+
+-----------------------------------------------------------------------------------------------------
