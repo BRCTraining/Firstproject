@@ -34,3 +34,16 @@ git commit
 
 Date: 14-May-2022
 Today we are learning again Git clone, Add, Commit, Push, pull
+
+First you have to do git clone: git clone "Project URL"
+After that you have to change the directory, where .git hidden folder available: cd "foldername"
+you can do the changes to your file and save it
+Then in git bash, type: git add .
+check git status: git status
+you will get to know, what are the file changed.
+then type the command to commit the changes: git commit -m "commit message"
+then you have to push your changes to git remote repository: git push -u origin "branchname"
+You will get your changes made in your local machine in github portal, else someone else can do a git pull to see your changes.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
