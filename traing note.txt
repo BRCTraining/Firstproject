@@ -32,3 +32,5 @@ git push
 
 git commit 
 
+Date: 14-May-2022
+Today we are learning again Git clone, Add, Commit, Push, pull
